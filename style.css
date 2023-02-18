@@ -136,8 +136,8 @@ h2 {
     margin-top: 0;
     margin-bottom: 0;
     margin-left: 510px;
-    font-size: 3.5rem;
-    font-weight: 280;
+    font-size: 3rem;
+    font-weight: 100;
     animation: lights 5s 750ms linear infinite;
 }
 
